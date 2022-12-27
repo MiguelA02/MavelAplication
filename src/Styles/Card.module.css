@@ -1,0 +1,25 @@
+.container{
+    display: inline-flex;
+    flex-direction: column;
+    margin: 0 0 10px 30px;
+}
+.card{
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background-color: #252525;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+}
+.card:hover{
+    background-color: #ed1d24;
+}
+.image{
+    width: 220px;
+    height: 220px;
+    border-radius: 15px;
+}

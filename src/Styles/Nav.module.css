@@ -1,0 +1,15 @@
+.container{
+    margin: 0 0 40px 0;
+    background-color: #ed1d24;
+    padding: 1px 0;
+    border-top: 2px solid white;
+}
+.op{
+    text-decoration: none;
+    color: white;
+    margin-right: 60px;
+    font-size: 20px;
+}
+.op:hover{
+    color: rgb(255, 123, 123)
+}
